@@ -1,0 +1,15 @@
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/bin/Debug/net6.0/Fase1
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/bin/Debug/net6.0/Fase1.deps.json
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/bin/Debug/net6.0/Fase1.runtimeconfig.json
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/bin/Debug/net6.0/Fase1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/bin/Debug/net6.0/ref/Fase1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/bin/Debug/net6.0/Fase1.pdb
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.csproj.AssemblyReference.cache
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.AssemblyInfoInputs.cache
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.AssemblyInfo.cs
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.csproj.CoreCompileInputs.cache
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/ref/Fase1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.pdb
+/home/thiagomares/RiderProjects/AprendendoCSharp/Fase1/obj/Debug/net6.0/Fase1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/bin/Debug/net6.0/Desafio1
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/bin/Debug/net6.0/Desafio1.deps.json
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/bin/Debug/net6.0/Desafio1.runtimeconfig.json
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/bin/Debug/net6.0/Desafio1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/bin/Debug/net6.0/ref/Desafio1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/bin/Debug/net6.0/Desafio1.pdb
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.csproj.AssemblyReference.cache
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.AssemblyInfoInputs.cache
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.AssemblyInfo.cs
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.csproj.CoreCompileInputs.cache
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/ref/Desafio1.dll
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.pdb
+/home/thiagomares/RiderProjects/AprendendoCSharp/Desafio1/obj/Debug/net6.0/Desafio1.genruntimeconfig.cache
